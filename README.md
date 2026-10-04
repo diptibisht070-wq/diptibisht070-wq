@@ -172,7 +172,7 @@ Power BI • Excel • SQL • Python • Pandas • Data Visualization
 <img src="https://img.shields.io/badge/GitHub-F7C6D9?style=for-the-badge&logo=github&logoColor=7A3E5D" />
 </a>
 
-<a href="https://www.linkedin.com/in/dipti-bisht-27510834/">
+<a href="https://www.linkedin.com/in/dipti-bisht-27510834a">
 <img src="https://img.shields.io/badge/LinkedIn-F7C6D9?style=for-the-badge&logo=linkedin&logoColor=7A3E5D" />
 </a>
 

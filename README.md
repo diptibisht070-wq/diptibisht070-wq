@@ -56,7 +56,7 @@
 <br><br>
 
 ### 🛠️ Tools & Technologies 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 
 </div>
 
@@ -74,7 +74,7 @@
 A women safety web application designed to provide quick access to emergency contacts, SOS alerts, live location and nearby help.
 
 **Tech:**  
-PHP • MySQL • HTML • CSS • JavaScript • DSA
+PHP • MySQL • HTML • CSS
 
 </td>
 
@@ -165,13 +165,7 @@ Power BI • Excel • SQL • Python • Pandas • Data Visualization
 🎀 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=diptibisht070-wq&show_icons=true&hide_border=true&title_color=C76B91&icon_color=C76B91&text_color=7A3E5D&bg_color=FFF0F5" />
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptibisht070-wq&hide_border=true&background=FFF0F5&ring=C76B91&fire=C76B91&currStreakLabel=C76B91" />
-
 </div>
 ---
 ## 💕 Let's Connect
